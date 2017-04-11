@@ -1,6 +1,6 @@
-# y
+# cjk-frontend
 
-> y
+> frontend of caojunkai.cn
 
 ## Build Setup
 
